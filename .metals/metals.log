@@ -1,0 +1,419 @@
+2023.03.27 22:06:49 INFO  Started: Metals version 0.11.11 in workspace '/home/brad/Documents/sizzle/services' for client Visual Studio Code 1.76.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/brad/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.27 22:06:50 INFO  time: initialize in 0.67s
+2023.03.27 22:06:52 WARN  Build server is not auto-connectable.
+2023.03.27 22:06:52 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.27 22:06:55 INFO  no build target found for /home/brad/Documents/sizzle/services/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.27 22:06:57 INFO  time: code lens generation in 5.44s
+2023.03.27 22:09:09 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.27 22:10:14 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.27 22:10:14 INFO  skipping build import with status 'Dismissed'
+2023.03.27 22:17:16 WARN  no build target for: /home/brad/Documents/sizzle/services/build.sbt
+2023.03.27 22:17:21 WARN  no build target for: /home/brad/Documents/sizzle/services/build.sbt
+Mar 27, 2023 10:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 518
+2023.03.27 22:20:48 WARN  no build target for: /home/brad/Documents/sizzle/services/build.sbt
+2023.03.27 22:21:03 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.27 22:21:03 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.27 22:21:20 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.27 22:21:20 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.27 22:21:24 WARN  no build target for: /home/brad/Documents/sizzle/services/build.sbt
+2023.03.27 22:21:24 INFO  skipping build import with status 'Dismissed'
+2023.03.27 22:23:06 WARN  no build target for: /home/brad/Documents/sizzle/services/build.sbt
+2023.03.27 22:23:55 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.27 22:23:55 INFO  skipping build import with status 'Dismissed'
+2023.03.27 22:24:25 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.27 22:24:25 INFO  skipping build import with status 'Dismissed'
+2023.03.27 22:26:02 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.27 22:27:59 ERROR scalafmt: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala:7: error: [dialect scala213] ; expected but : found
+object ShardManager extends ZIOAppDefault:
+                                         ^
+2023.03.27 22:28:06 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.28 08:59:06 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/Items.scala
+2023.03.28 09:03:32 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:04:12 WARN  Could not parse /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala, saved the current snapshot to /home/brad/Documents/sizzle/services/.metals/.reports/stackoverflow_1680008652498_TodoList.scala
+2023.03.28 09:04:12 WARN  Could not parse /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala, saved the current snapshot to /home/brad/Documents/sizzle/services/.metals/.reports/stackoverflow_1680008652818_TodoList.scala
+2023.03.28 09:05:07 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 9:06:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1429
+2023.03.28 09:06:40 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:07:47 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:08:13 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:09:00 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:09:09 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:09:51 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:09:51 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:09:51 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:09:52 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:10:58 WARN  Using indexes to guess the definition of TodoListMessage
+2023.03.28 09:11:10 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 9:12:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2114
+2023.03.28 09:12:44 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:13:43 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:13:43 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:17:33 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:17:52 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:18:11 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:18:14 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:18:52 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:19:05 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:19:24 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:20:00 WARN  Using indexes to guess the definition of TodoListMessage
+2023.03.28 09:23:39 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.03.28 09:25:12 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:25:26 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:25:58 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:26:11 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:26:29 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:26:32 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 09:30:13 WARN  no build target for: /home/brad/Documents/sizzle/services/build.sbt
+2023.03.28 10:46:30 WARN  Using indexes to guess the definition of devsisters
+2023.03.28 10:47:01 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.28 10:47:04 WARN  no build target for: /home/brad/Documents/sizzle/services/project/Dependencies.scala
+2023.03.28 10:47:10 WARN  no build target for: /home/brad/Documents/sizzle/services/build.sbt
+2023.03.28 10:50:23 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 10:50:37 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:17:36 WARN  Using indexes to guess the definition of TodoListItem
+2023.03.28 11:17:39 WARN  Using indexes to guess the definition of TodoListItem
+2023.03.28 11:17:42 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:18:57 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:42:35 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:51:34 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:51:47 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:51:49 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:51:56 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:51:58 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:52:11 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:52:14 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:52:22 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:54:07 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:54:12 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:54:46 WARN  Using indexes to guess the definition of description
+2023.03.28 11:55:14 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:55:23 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:56:00 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 11:57:32 WARN  Using indexes to guess the definition of TodoListMessage
+2023.03.28 11:58:09 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:01:26 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:04:05 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:04:10 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:04:13 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:06:55 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:06:55 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:07:31 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:07:55 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:07:58 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:08:30 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 12:10:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+2023.03.28 12:10:13 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:10:43 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:11:29 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:12:10 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:14:28 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:14:36 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:23:07 WARN  Using indexes to guess the definition of TodoListItem
+2023.03.28 12:23:14 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:23:38 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:24:10 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:25:52 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.28 12:26:01 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.28 12:29:07 WARN  Using indexes to guess the definition of completed
+2023.03.28 12:29:31 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:29:52 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:40:19 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:40:49 WARN  Using indexes to guess the definition of TodoListMessage
+2023.03.28 12:40:49 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:44:18 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:44:22 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:44:45 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:44:56 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 12:45:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7005
+Mar 28, 2023 12:46:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7069
+2023.03.28 12:46:36 WARN  Using indexes to guess the definition of TodoListItem
+2023.03.28 12:46:38 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:46:50 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:46:56 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:47:17 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:47:26 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:47:44 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:48:41 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:48:58 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:49:06 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 12:50:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7595
+2023.03.28 12:51:23 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:51:43 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:51:58 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:52:28 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:54:19 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 12:56:39 INFO  Shutting down server
+2023.03.28 12:56:39 INFO  shutting down Metals
+2023.03.28 12:56:39 INFO  Exiting server
+2023.03.28 13:06:30 INFO  Started: Metals version 0.11.11 in workspace '/home/brad/Documents/sizzle/services' for client Visual Studio Code 1.76.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/brad/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.28 13:06:31 INFO  time: initialize in 1.09s
+2023.03.28 13:06:35 WARN  Build server is not auto-connectable.
+2023.03.28 13:06:35 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:06:39 INFO  no build target found for /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.28 13:06:46 INFO  time: code lens generation in 10s
+2023.03.28 13:06:46 INFO  time: code lens generation in 10s
+2023.03.28 13:07:57 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:08:08 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:08:50 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:09:24 INFO  Shutting down server
+2023.03.28 13:09:24 INFO  shutting down Metals
+2023.03.28 13:09:24 INFO  Exiting server
+2023.03.28 13:11:17 INFO  Started: Metals version 0.11.11 in workspace '/home/brad/Documents/sizzle/services' for client Visual Studio Code 1.76.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/brad/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.28 13:11:17 INFO  time: initialize in 0.51s
+2023.03.28 13:11:20 WARN  Build server is not auto-connectable.
+2023.03.28 13:11:20 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:11:35 INFO  no build target found for /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.28 13:11:43 INFO  Shutting down server
+2023.03.28 13:11:43 INFO  shutting down Metals
+2023.03.28 13:11:45 INFO  time: code lens generation in 25s
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@4cdc5f0[Shutting down, pool size = 4, active threads = 4, queued tasks = 0, completed tasks = 133]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2065)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:833)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1365)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@4cdc5f0[Shutting down, pool size = 4, active threads = 4, queued tasks = 0, completed tasks = 133]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2065)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:833)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1365)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@4cdc5f0[Shutting down, pool size = 2, active threads = 2, queued tasks = 0, completed tasks = 135]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2065)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:833)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1365)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.03.28 13:11:45 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.03.28 13:15:18 INFO  Started: Metals version 0.11.11 in workspace '/home/brad/Documents/sizzle/services' for client Visual Studio Code 1.76.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/brad/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.28 13:15:19 INFO  time: initialize in 0.92s
+2023.03.28 13:15:23 WARN  Build server is not auto-connectable.
+2023.03.28 13:15:23 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:15:27 INFO  no build target found for /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.28 13:15:32 INFO  time: code lens generation in 8.89s
+2023.03.28 13:17:34 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:19:29 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:19:54 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:21:09 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:21:45 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:22:04 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:22:23 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:24:40 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:24:57 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:25:15 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:26:14 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:26:19 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:28:14 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:29:07 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:29:55 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:30:25 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:30:40 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:30:40 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:35:01 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:35:07 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:35:52 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 1:37:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1345
+2023.03.28 13:37:09 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:38:11 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:38:44 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:39:00 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:39:05 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:39:08 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 1:39:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1741
+2023.03.28 13:39:40 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:39:48 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:39:48 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:40:12 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:40:19 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:44:39 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:44:59 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:45:16 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:45:16 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:45:21 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:45:31 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:45:38 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:46:21 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:46:25 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:46:51 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:46:55 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:47:07 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 1:48:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2436
+2023.03.28 13:49:18 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:49:32 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 1:49:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2556
+2023.03.28 13:49:58 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:50:02 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:50:19 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:50:47 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:50:58 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:51:14 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:51:22 WARN  Using indexes to guess the definition of TodoListItem
+2023.03.28 13:51:22 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:51:23 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:53:58 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:54:30 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 1:54:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2968
+2023.03.28 13:54:50 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:55:44 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:56:01 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:56:20 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:56:41 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:56:42 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:56:45 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:56:49 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:57:08 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:57:22 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:57:25 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:57:58 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Exception in thread "pool-5-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.03.28 13:58:05 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:58:27 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:58:29 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:58:31 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:59:00 WARN  Using indexes to guess the definition of handleRemoveItem
+2023.03.28 13:59:00 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 13:59:16 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 14:00:54 WARN  Using indexes to guess the definition of completed
+2023.03.28 14:01:00 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+Mar 28, 2023 2:03:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4116
+Mar 28, 2023 2:04:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4199
+Mar 28, 2023 2:04:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4331
+2023.03.28 14:04:38 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 14:04:47 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 14:05:17 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 14:05:26 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 14:07:39 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoList.scala
+2023.03.28 14:07:48 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListEntity.scala
+2023.03.28 14:13:29 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.28 14:13:33 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.28 14:13:47 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListEntity.scala
+Mar 28, 2023 2:31:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4599
+2023.03.28 14:31:41 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListEntity.scala
+2023.03.28 14:32:00 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListEntity.scala
+2023.03.28 14:32:05 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListEntity.scala
+2023.03.28 14:32:38 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.28 14:34:49 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.28 14:34:56 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.28 15:53:37 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.28 15:53:43 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManager.scala
+2023.03.28 15:54:52 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListEntity.scala
+2023.03.28 16:17:49 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManagerApp.scala
+2023.03.28 16:55:23 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+2023.03.28 16:55:29 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+2023.03.28 16:55:41 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+2023.03.28 16:56:05 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+Mar 28, 2023 4:57:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5166
+2023.03.28 16:59:21 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+2023.03.28 17:00:02 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+2023.03.28 17:00:53 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+2023.03.28 17:00:56 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+2023.03.28 17:12:04 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+2023.03.28 17:12:09 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+2023.03.28 18:51:34 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListEntity.scala
+2023.03.28 18:56:53 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListEntity.scala
+2023.03.28 19:01:22 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListEntity.scala
+2023.03.28 19:15:37 WARN  no build target for: /home/brad/Documents/sizzle/services/build.sbt
+2023.03.28 19:15:41 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListApp.scala
+2023.03.28 19:15:45 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/TodoListEntity.scala
+2023.03.28 19:15:53 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/superhumn/ShardManagerApp.scala
+2023.03.28 19:16:01 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/baovitt/TodoListEntity.scala
+2023.03.28 19:16:01 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/baovitt/ShardManagerApp.scala
+2023.03.28 19:16:01 WARN  no build target for: /home/brad/Documents/sizzle/services/shardmanager/src/main/scala/com/baovitt/TodoListApp.scala
+2023.03.28 19:16:11 WARN  no build target for: /home/brad/Documents/sizzle/services/build.sbt
